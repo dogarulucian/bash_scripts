@@ -27,3 +27,6 @@ https://support.asperasoft.com/hc/en-us/articles/216127358-How-to-run-a-cron-job
 
 https://www.thegeekstuff.com/2011/12/crontab-command/
 
+https://askubuntu.com/questions/2368/how-do-i-set-up-a-cron-job
+
+

@@ -1,3 +1,5 @@
+### A cron job that deletes certain folders and content from system every 5 min ###
+
 Set permission to  execute for the shell script
 
 chmod +x script.sh
